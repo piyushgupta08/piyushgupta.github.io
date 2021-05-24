@@ -1,0 +1,17 @@
+  body{
+  text-align: justify;
+  background: #ffff77;
+  border: .5em dashed black;
+  padding: 0em 1em;
+}
+
+h3{
+  color: goldenrod;
+  font-family: Trebuchet ms;
+}
+
+a{
+  color: slateblue;
+  text-decoration: none;
+  font-family: arial black;
+}
